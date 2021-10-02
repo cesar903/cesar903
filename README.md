@@ -1,4 +1,4 @@
-<h1>👋 <strong>Olá, me chamo *Cesar Augusto*...</strong></h1> 
+<h1>👋 <strong>Olá, me chamo **Cesar Augusto**...</strong></h1> 
 
 <p>- 👀 Sou um programador em fase de transação para o mercado de trabalho; </p>
 <p>- 😃 Estudante de Técnico Em Informatica para Internet, na instituição SENAI;</p>
