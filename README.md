@@ -1,6 +1,6 @@
-- 👋 Olá, me chamo Cesar Augusto... 
+- <h1>👋 <strong>Olá, me chamo Cesar Augusto...</strong></h1> 
 - 👀 Sou um programador em fase de transação para o mercado de trabalho;
-- 😃 Estudante de Tecnico Em Informatica para Internet, na instituição SENAI;
+- 😃 Estudante de Técnico Em Informatica para Internet, na instituição SENAI;
 - 💞️ Apaixonado por progamação, busco ingressar em Análise e desenvolvimento de sistemas(ADS) o quanto antes;
 - 💬 Em busca de novas oportunidades, Profissionais e pessoais, visando sempre o crescimento como um todo;
 - 🤝 Adoro colaborar em novos projetos, sempre repassando o pouco do conhecimento que tenho;
