@@ -3,7 +3,7 @@
 <ul>
   <li> 👀 Sou um programador em fase de transação para o mercado de trabalho; </li>
   <li> 📚 Conhecimentos em HTML, CSS, Javascript e C/C++ Voltado ao micro controlador Arduino;</li>
-  <li> 📚 Estudando Java, php e banco de dados MySql para desenvolvimento de sitesmas completos;<li>
+  <li> 📚 Estudando Java, php e banco de dados MySql para desenvolvimento de sitesmas completos;</li>
   <li> 😃 Estudante Técnico em Desenvolvimento web FullStack, ministrado pela instituição SENAI;</li>
   <li> 💞️ Apaixonado por progamação, ingressei em Análise e desenvolvimento de sistemas(ADS) na instituição UNIP em 2022;</li>
   <li> 💬 Em busca de novas oportunidades, visando sempre o crescimento como um todo;</li>
