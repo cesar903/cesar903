@@ -9,7 +9,7 @@
   <li> 🧐 E recentemente ingressei em Analise e Desenvolvimento de Sistemas na instituição UNIP (Universidade Paulista)
 </ul>
 
-<h2>👋 <strong>Um pouco mais sobre mim</strong></h2> 
+<h2> <strong>Um pouco mais sobre mim...</strong></h2> 
 
 <ul>
   <li> 💞️ Apaixonado por progamação, penso que quando trabalhamos com o que gostamos, </Strong>Jamais iremos trabalhar.<Strong></li>
