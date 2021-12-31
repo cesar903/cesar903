@@ -2,13 +2,21 @@
 
 <ul>
   <li> 👀 Sou um programador em fase de transação para o mercado de trabalho; </li>
-  <li> 📚 Conhecimentos em HTML, CSS, Javascript e C/C++ Voltado ao micro controlador Arduino;</li>
-  <li> 📚 Estudando Java, php e banco de dados MySql para desenvolvimento de sitesmas completos;</li>
-  <li> 😃 Estudante Técnico em Desenvolvimento web FullStack, ministrado pela instituição SENAI;</li>
-  <li> 💞️ Apaixonado por progamação, ingressei em Análise e desenvolvimento de sistemas(ADS) na instituição UNIP em 2022;</li>
+  <li> 📚 Tenho conhecimentos intermediarios em HTML, CSS, Javascript e C/C++ Voltado ao micro controlador Arduino;</li>
+  <li> 📚 Estudo Java, php e banco de dados MySql para desenvolvimento de sitesmas completos;</li>
+  <li> 😃 Sou estudante do curso Técnico em Desenvolvimento web FullStack, ministrado pela instituição SENAI;</li>
+  <li> 🤓 Estudo inglês na CNA;</li>
+  <li> 🧐 E recentemente ingressei em Analise e Desenvolvimento de Sistemas na instituição UNIP (Universidade Paulista)
+</ul>
+
+<h2>👋 <strong>Um pouco mais sobre mim</strong></h2> 
+
+<ul>
+  <li> 💞️ Apaixonado por progamação, penso que quando trabalhamos com o que gostamos, </Strong>Jamais iremos trabalhar.<Strong></li>
   <li> 💬 Em busca de novas oportunidades, visando sempre o crescimento como um todo;</li>
-  <li> 🤝 Adoro colaborar em novos projetos, sempre repassando o pouco do conhecimento que tenho para colegas de profissão;</li>
+  <li> 🤝 Adoro colaborar em novos projetejos, e sempre procuro me aperfeiçoar cada vez mais;</li>
   <li> 📫 Estou aberto a sugestões e trabalhos, em busca sempre do crescimento PESSOAL e PROFISSIONAL.</li>
   <li> 👀 cesarreis521@gmail.com , mande um email caso queira entrar em contato. </li>
   <li> 🌱 Estou sempre aberto a dicas, consultas e novas experiências...</li>
 </ul>
+<Strong>Se levarmos em conta, hoje ja somos 1% melhores do que ontem...</Strong>
