@@ -2,7 +2,7 @@
 
 <ul>
   <li> 👀 Sou um programador em fase de transação para o mercado de trabalho; </li>
-  <li> 📚 Tenho conhecimentos intermediarios em HTML, CSS, Javascript e C/C++ Voltado ao micro controlador Arduino;</li>
+  <li> 📚 Tenho conhecimentos intermediarios em HTML, CSS, Javascript, Java, SpringBoot (Framework Java), Bootstrap, e C/C++ Voltado ao micro controlador Arduino;</li>
   <li> 📚 Estudo Java, php e banco de dados MySql para desenvolvimento de sitesmas completos;</li>
   <li> 😃 Sou estudante do curso Técnico em Desenvolvimento web FullStack, ministrado pela instituição SENAI;</li>
   <li> 🤓 Estudo inglês na CNA;</li>
@@ -14,7 +14,7 @@
 <ul>
   <li> 💞️ Apaixonado por progamação, penso que quando trabalhamos com o que gostamos, <Strong>Jamais iremos trabalhar.</Strong></li>
   <li> 💬 Em busca de novas oportunidades, visando sempre o crescimento como um todo;</li>
-  <li> 🤝 Adoro colaborar em novos projetejos, e sempre procuro me aperfeiçoar cada vez mais;</li>
+  <li> 🤝 Adoro colaborar em novos projetos, e sempre procuro me aperfeiçoar cada vez mais;</li>
   <li> 📫 Estou aberto a sugestões e trabalhos, em busca sempre do crescimento PESSOAL e PROFISSIONAL.</li>
   <li> 👀 cesarreis521@gmail.com , mande um email caso queira entrar em contato. </li>
   <li> 🌱 Estou sempre aberto a dicas, consultas e novas experiências...</li>
