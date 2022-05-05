@@ -3,7 +3,7 @@
 <ul>
   <li> 👀 Sou um programador em fase de transação para o mercado de trabalho; </li>
   <li> 📚 Tenho conhecimentos intermediarios em HTML, CSS, Javascript, Java, SpringBoot (Framework Java), Bootstrap, e C/C++ Voltado ao micro controlador Arduino;</li>
-  <li> 📚 Estudo Java, php e banco de dados MySql para desenvolvimento de sitesmas completos;</li>
+  <li> 📚 Estudo Java, php e banco de dados MySql para desenvolvimento de sistemas completos;</li>
   <li> 😃 Sou estudante do curso Técnico em Desenvolvimento web FullStack, ministrado pela instituição SENAI;</li>
   <li> 🤓 Estudo inglês na CNA;</li>
   <li> 🧐 E recentemente ingressei em Analise e Desenvolvimento de Sistemas na instituição UNIP (Universidade Paulista)
