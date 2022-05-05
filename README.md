@@ -12,7 +12,7 @@
 <h2> <strong>Um pouco mais sobre mim...</strong></h2> 
 
 <ul>
-  <li> 💞️ Apaixonado por progamação, penso que quando trabalhamos com o que gostamos, <Strong>Jamais iremos trabalhar.</Strong></li>
+  <li> 💞️ <Strong>Apaixonado por Programação desde os 15 anos;</Strong></li>
   <li> 💬 Em busca de novas oportunidades, visando sempre o crescimento como um todo;</li>
   <li> 🤝 Adoro colaborar em novos projetos, e sempre procuro me aperfeiçoar cada vez mais;</li>
   <li> 📫 Estou aberto a sugestões e trabalhos, em busca sempre do crescimento PESSOAL e PROFISSIONAL.</li>
