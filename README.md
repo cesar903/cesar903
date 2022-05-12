@@ -3,7 +3,7 @@
 <ul>
   <li> 👀 Sou um programador em fase de transação para o mercado de trabalho; </li>
   <li> 📚 Tenho conhecimentos intermediarios em HTML, CSS, Javascript, Java, SpringBoot (Framework Java), Bootstrap, e C/C++ Voltado ao micro controlador Arduino;</li>
-  <li> 📚 Estudo Java, php e banco de dados MySql para desenvolvimento de sistemas completos;</li>
+  <li> 📚 Estudo Java, PHP e Banco de dados MySql para desenvolvimento de sistemas completos;</li>
   <li> 😃 Sou formado em Técnico em Desenvolvimento web FullStack, ministrado pela instituição SENAI;</li>
   <li> 🤓 Estudo inglês na CNA;</li>
   <li> 🧐 E recentemente ingressei em Analise e Desenvolvimento de Sistemas na instituição UNIP (Universidade Paulista)
@@ -19,4 +19,5 @@
   <li> 👀 cesarreis521@gmail.com , mande um email caso queira entrar em contato. </li>
   <li> 🌱 Estou sempre aberto a dicas, consultas e novas experiências...</li>
 </ul>
-<Strong>Se levarmos em conta, hoje ja somos 1% melhores do que ontem...</Strong>
+<Strong>As pessoas que acham que conseguem mudar o mundo, são as que realmente mudam o mundo. -Steve Jobbs
+</Strong>
