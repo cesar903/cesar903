@@ -19,5 +19,5 @@
   <li> 👀 cesarreis521@gmail.com , mande um email caso queira entrar em contato. </li>
   <li> 🌱 Estou sempre aberto a dicas, consultas e novas experiências...</li>
 </ul>
-<Strong>As pessoas que acham que conseguem mudar o mundo, são as que realmente mudam o mundo. -Steve Jobbs
+<Strong>As pessoas que acham que conseguem mudar o mundo, são as que realmente mudam o mundo. -Steve Jobs
 </Strong>
