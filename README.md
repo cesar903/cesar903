@@ -1,16 +1,15 @@
 <div align="center" style="text-align: center;">
-    ### Olá! Eu sou Cesar Augusto, Programador WEB 😎
+<h1> Olá! Eu sou Cesar Augusto, Programador WEB 😎 </h1>
+<br>
 
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-augusto-b07064187)
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarreis521@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-augusto-b07064187)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarreis521@gmail.com)
 
-    
-    <div style="display: inline-block;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesar903&show_icons=true&theme=radical" alt="">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar903" href="https://github.com/cesar903/github-readme-stats" alt="">
-    </div>
-
-    ## Tecnologias Usuais
+<div style="display: inline-block;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesar903&show_icons=true&theme=radical" alt="">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar903&layout=compact" href="https://github.com/cesar903/github-readme-stats" alt="">
+</div>
+<h2>Tecnologias Usuais</h2> 
     <div style="display: inline-block">
         <img align="center"
             src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -35,7 +34,4 @@
         <img align="center"
             src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     </div>
-</div>
-<div>
-    
 </div>
