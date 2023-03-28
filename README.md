@@ -29,10 +29,13 @@
     </div>
     <div align="center" style="text-align: center;">
     <h2><i>Contacts</i></h2>
-        <img align="center"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/c%C3%A9sar-augusto-b07064187" alt="Linkedin">
-        <img align="center"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:cesarreis521@gmail.com" alt="GMAIL">
+        <a href="https://www.linkedin.com/in/c%C3%A9sar-augusto-b07064187">
+            <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin">
+        </a>
+        <a href="mailto:cesarreis521@gmail.com">
+            <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="GMAIL">
+        </a>
+        
 </div>
 </div>
 
