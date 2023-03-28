@@ -33,7 +33,4 @@
     </div>
 </div>
 
-<div align="center">
-  <br><br>
-  ![Snake animation](https://github.com/cesar903/cesar903/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/cesar903/cesar903/blob/output/github-contribution-grid-snake.svg)
