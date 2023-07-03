@@ -20,8 +20,8 @@ t<div align="center" style="text-align: center;">
             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
             alt="Bootstrap">
         <img align="center"
-            src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=angular&logoColor=white"
-            alt="Angular">
+            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+            alt="React">
         <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
             alt="PHP">
         <img align="center"
