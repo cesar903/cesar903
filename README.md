@@ -1,4 +1,4 @@
-<div align="center" style="text-align: center;">
+t<div align="center" style="text-align: center;">
     <h1> Hello, I'm Cesar Augusto, WEB Programmer. 😎 </h1>
     <br>
     <div style="display: inline-block;">
@@ -20,7 +20,7 @@
             src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
             alt="Bootstrap">
         <img align="center"
-            src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+            src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=angular&logoColor=white"
             alt="Angular">
         <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
             alt="PHP">
