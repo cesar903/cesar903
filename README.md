@@ -1,4 +1,4 @@
-t<div align="center" style="text-align: center;">
+<div align="center" style="text-align: center;">
     <h1> Hello, I'm Cesar Augusto, WEB Programmer. 😎 </h1>
     <br>
     <div style="display: inline-block;">
